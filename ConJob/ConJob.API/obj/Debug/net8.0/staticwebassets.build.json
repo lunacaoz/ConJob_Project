@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EaWEIp26GTl/rEOgfVCS2SFjqgkM1xPy2aN0vyLsOu8=",
+  "Source": "ConJob.API",
+  "BasePath": "_content/ConJob.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

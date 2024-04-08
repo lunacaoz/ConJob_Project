@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ConJob.API.props" />
+</Project>
